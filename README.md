@@ -1,2 +1,2 @@
-# weather-project
+# Weather Project
 Second python project.
